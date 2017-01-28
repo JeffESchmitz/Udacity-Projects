@@ -9,4 +9,4 @@ Links to my Udacity iOS Nanodegree projects
 
 [MemeMe](https://github.com/JeffESchmitz/MemeMe) - 2nd project
 
-[PitchPerfect](https://github.com/JeffESchmitz/PitchPerfect) - 1st project
+![PitchPerfectAppIcon](https://github.com/JeffESchmitz/PitchPerfect/blob/master/Pitch%20Perfect/Assets.xcassets/AppIcon.appiconset/Icon-40%402x.png) [PitchPerfect](https://github.com/JeffESchmitz/PitchPerfect) - 1st project
