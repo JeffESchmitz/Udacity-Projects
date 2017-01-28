@@ -7,6 +7,6 @@ Links to my Udacity iOS Nanodegree projects
 
 [OneTheMap](https://github.com/JeffESchmitz/OnTheMap) - 3rd project
 
-[MemeMe](https://github.com/JeffESchmitz/MemeMe) - 2nd project
+![MemeMeAppIcon](https://github.com/JeffESchmitz/MemeMe/blob/master/MemeMe/Assets.xcassets/AppIcon.appiconset/Icon-40%402x.png) [MemeMe](https://github.com/JeffESchmitz/MemeMe) - 2nd project
 
 ![PitchPerfectAppIcon](https://github.com/JeffESchmitz/PitchPerfect/blob/master/Pitch%20Perfect/Assets.xcassets/AppIcon.appiconset/Icon-40%402x.png) [PitchPerfect](https://github.com/JeffESchmitz/PitchPerfect) - 1st project
